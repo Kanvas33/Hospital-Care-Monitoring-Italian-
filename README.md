@@ -21,7 +21,7 @@ This GitHub repository contains the code and resources for a **Microsoft Power B
 - **Appointment Insights**: The dashboard provides insights into average appointment times (in minutes), the number of doctors, and doctor appointments.
    - **Doctor Performance**: Top-performing doctors based on the number of appointments are highlighted.
    - **Patient Demographics**: Data is presented on the number of patients in various age groups.
-   - **Medical Entries Analysis**: Medical entries are categorized into sectors, including hospital wards and emergency care, with low, median, and high classifications. The analysis covers a one-year period in 2021.
+   - **Medical Entries Analysis**: Medical entries are categorized into sectors, including hospital wards and emergency care, with low, median, and high classifications. **The analysis covers a one-year period in 2021**.
 
 - **Date Filter**: Users can use a **date filter** to select specific days in **2021** for detailed analysis.
 
