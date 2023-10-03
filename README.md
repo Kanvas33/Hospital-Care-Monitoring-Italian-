@@ -1,5 +1,31 @@
 # Hospital Care Monitoring Dashboard using Microsoft Power BI(Italian)
 
+## Interactive Dashboard Illustrations - GIFs
+
+To better illustrate the **interactive nature of the Power BI dashboard**, you can view the **GIFs** below:
+
+### General Overview
+![General Overview](https://github.com/Kanvas33/Power-BI-Hospital-Care-Monitoring-Italian-/blob/main/General%20Overview.gif)
+
+A hospital monitoring dashboard is a data visualization tool designed to provide a **comprehensive view of various aspects of hospital operations and patient care**.
+
+### Patients and Doctors Overview
+![Pacients and Doctors Overview](https://github.com/Kanvas33/Power-BI-Hospital-Care-Monitoring-Italian-/blob/main/Pacient%20and%20Doctor%20Overview.gif)
+
+The "Patient/Doctors Overview" section of a hospital monitoring dashboard focuses on providing **insights into patient and doctor-related metrics**. It typically includes data on the number of patients seen, doctor appointments, average appointment times, and potentially other relevant statistics.
+
+### Date Filter Overview
+![Date Filter Overview](https://github.com/Kanvas33/Power-BI-Hospital-Care-Monitoring-Italian-/blob/main/Date%20Filter.gif)
+
+A "Date Filter" in a hospital dashboard is a user interface element that allows users to **select specific dates or date ranges for data analysis**. It provides users with the flexibility to narrow down the displayed data to a particular timeframe. 
+
+### Patient Demographics Overview
+![Patient Demographics Overview](https://github.com/Kanvas33/Power-BI-Hospital-Care-Monitoring-Italian-/blob/main/Patients%20Demographics.gif)
+
+"Patient demographic insights" refer to **information about the characteristics of the patient population** within a healthcare setting.
+
+**These GIFs help showcase the interactive features and functionality of the Power BI dashboard.**
+
 ## Project Overview
 
 This GitHub repository contains the code and resources for a **Microsoft Power BI interactive dashboard** focused on **hospital care monitoring** within the context of **healthcare**. The project aims to **analyze** various aspects of hospital care, including **patient volumes, appointment statistics, doctor appointments, medical entries, and more**. By leveraging the power of **data analysis and visualization**, the project seeks to provide valuable **insights** for **hospital management and healthcare professionals**.
